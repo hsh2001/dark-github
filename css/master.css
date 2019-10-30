@@ -1,0 +1,54 @@
+body,
+div.bg-gray  {
+  background: #202020 !important;
+  color: #fefefe !important;
+}
+
+.dashboard-sidebar,
+.bg-white[class],
+.bubble,
+.Box,
+details-menu {
+  background: #2a2a2a !important;
+  color: #fefefe !important;
+}
+
+
+.dropdown-menu:after {
+  border-bottom-color: #2a2a2a !important;
+}
+
+.Box-row--hover-blue[class]:hover {
+  background: #222 !important;
+}
+
+.Box,
+.Box-row:not(:first-of-type),
+.border-top[class],
+.border-left[class],
+.border-right[class],
+.border-bottom[class] {
+  border-color: #656565 !important;
+}
+
+.text-gray-light[class],
+.link-gray[class] {
+  color: #ccc !important;
+}
+
+.text-gray[class],
+.muted-link[class] {
+  color: #ccc !important;
+}
+
+.text-gray-dark[class],
+.link-gray-dark[class],
+.user-profile-link[class],
+.dropdown-item {
+  color: #f3f3f3 !important;
+}
+
+.ajax-pagination-btn {
+  background: none !important;
+  color: white !important;
+}
