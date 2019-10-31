@@ -6,7 +6,10 @@
   "content_scripts": [
     {
       "matches": [ "https://*.github.com/*" ],
-      "css": [ "css/global/master.css" ]
+      "css": [
+        "css/global/master.css",
+        "css/global/header.css"
+      ]
     },
     {
       "matches": [ "https://github.com/" ],

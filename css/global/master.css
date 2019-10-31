@@ -8,11 +8,15 @@ div.bg-gray  {
 .bg-white[class],
 .bubble,
 .Box,
+.select-menu-modal,
+.select-menu-header,
+.select-menu-title,
+.select-menu-list,
+.select-menu-item,
 details-menu {
   background: #2a2a2a !important;
   color: #fefefe !important;
 }
-
 
 .dropdown-menu:after {
   border-bottom-color: #2a2a2a !important;
@@ -27,7 +31,9 @@ details-menu {
 .border-top[class],
 .border-left[class],
 .border-right[class],
-.border-bottom[class] {
+.border-bottom[class],
+.select-menu-item,
+.select-menu-header {
   border-color: #656565 !important;
 }
 

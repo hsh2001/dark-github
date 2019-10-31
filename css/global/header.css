@@ -1,0 +1,9 @@
+.jump-to-suggestions-path,
+.jump-to-suggestions-path svg {
+  color: #fff !important;
+}
+
+.jump-to-field-active[class] {
+  background-color: #333 !important;
+  color: #fff !important;
+}
