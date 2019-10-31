@@ -6,6 +6,18 @@
   color: #ccc;
 }
 
-.form-group .form-control {
+.select-menu-text-filter input[type],
+.form-group .form-control[class] {
+  background: #333 !important;
+  border: #333 !important;
+  color: #fff;
+}
 
+.select-menu-text-filter input[type]:hover,
+.select-menu-text-filter input[type]:focus,
+.form-group .form-control[class]:hover,
+.form-group .form-control[class]:focus, {
+  background: #444 !important;
+  border: #333 !important;
+  color: #fff;
 }

@@ -13,6 +13,7 @@ div.bg-gray  {
 .select-menu-title,
 .select-menu-list,
 .select-menu-item,
+.select-menu-text-filter,
 details-menu {
   background: #2a2a2a !important;
   color: #fefefe !important;
