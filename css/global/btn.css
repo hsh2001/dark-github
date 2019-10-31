@@ -1,6 +1,20 @@
 .btn[class] {
-  background-color: #444;
-  background-image: none;
+  background: #444;
   border-color: #444;
   color: #fff;
+}
+
+.btn[class]:hover {
+  background: #555;
+  border-color: #555;
+}
+
+.btn-primary[class] {
+  background: #28a745;
+  border-color: #28a745;
+}
+
+.btn-primary[class]:hover {
+  background: #269f42;
+  border-color: #269f42;
 }
