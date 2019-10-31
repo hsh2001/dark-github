@@ -13,7 +13,7 @@
     },
     {
       "matches": [ "https://github.com/" ],
-      "css": [ "css/index/index.css" ]
+      "css": [ "css/index/dashboard.css" ]
     }
   ]
 }
