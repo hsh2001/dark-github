@@ -12,7 +12,8 @@
       "css": [
         "css/global/master.css",
         "css/global/header.css",
-        "css/global/btn.css"
+        "css/global/btn.css",
+        "css/global/form.css"
       ]
     },
     {

@@ -1,0 +1,11 @@
+.note[class] {
+  color: #bbb;
+}
+
+.form-checkbox .note[class] {
+  color: #ccc;
+}
+
+.form-group .form-control {
+
+}
