@@ -3,6 +3,9 @@
   "version": "0.1",
   "description": "Switch the GitHub to dark mode.",
   "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup/popup.html"
+  },
   "content_scripts": [
     {
       "matches": [ "https://*.github.com/*" ],
