@@ -6,11 +6,11 @@
   "content_scripts": [
     {
       "matches": [ "https://*.github.com/*" ],
-      "css": [ "css/master.css" ]
+      "css": [ "css/global/master.css" ]
     },
     {
       "matches": [ "https://github.com/" ],
-      "css": [ "css/index.css" ]
+      "css": [ "css/index/index.css" ]
     }
   ]
 }
