@@ -19,6 +19,10 @@
     {
       "matches": [ "https://github.com/" ],
       "css": [ "css/index/dashboard.css" ]
+    },
+    {
+      "matches": [ "https://github.com/new" ],
+      "css": [ "css/new/new.css" ]
     }
   ]
 }
